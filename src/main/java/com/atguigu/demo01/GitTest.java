@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("第三次修改...");
         System.out.println("在hot-fix分支进行的修改");
         System.out.println("测试代码冲突");
+        System.out.println("在hot-fix分支进行的修改01---->测试代码冲突");
     }
 }
